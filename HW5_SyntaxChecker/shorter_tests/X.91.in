@@ -1,0 +1,12 @@
+AnaDegiskenler
+Lja1VJsA degeri dokuz olsun
+hizMk4eb degeri sifir nokta bir olsun
+nqyiH degeri dogru olsun
+iV5 degeri 7 olsun
+
+YeniDegiskenler
+kGzg degeri 7.2 olsun
+u7c degeri ( 7 - ( sifir ) - ac-parantez Lja1VJsA eksi sifir ) carpi iV5 - iV5 - ac-parantez Lja1VJsA kapa-parantez arti iV5 arti Lja1VJsA * ac-parantez iV5 kapa-parantez * ( Lja1VJsA kapa-parantez + ( iV5 ) eksi iV5 ) olsun
+
+Sonuc
+( ac-parantez ( ( ac-parantez ac-parantez hizMk4eb ) kapa-parantez ) ) ) kapa-parantez * kGzg arti ac-parantez ac-parantez ac-parantez ( kGzg kapa-parantez ) ) )

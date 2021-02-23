@@ -1,0 +1,28 @@
+AnaDegiskenler
+Dfst degeri bir olsun
+4kK degeri 8.1 olsun
+8T degeri dogru olsun
+nGBZ9ns degeri yanlis olsun
+gXU7V2HQa degeri yedi nokta alti olsun
+qW2ukM degeri 5 olsun
+j9fzxq degeri uc nokta yedi olsun
+h degeri 0.7 olsun
+6GJcLGDqX degeri dogru olsun
+NeoUCGwx degeri dogru olsun
+VmvjOG degeri yanlis olsun
+jn1n degeri dogru olsun
+T degeri 3.2 olsun
+
+YeniDegiskenler
+aaaaaaaaaaaaaaaa degeri Dfst + 5 olsun
+LNMfqeGEXw degeri yanlis olsun
+vt4 degeri nGBZ9ns olsun
+bPA degeri j9fzxq olsun
+l8Ui1C7riv degeri ( VmvjOG ) olsun
+kVg8s4zhAy degeri LNMfqeGEXw olsun
+tuWd degeri dort carpi qW2ukM carpi Pd olsun
+A degeri bes arti yedi * ac-parantez ( ( ac-parantez 6 kapa-parantez ) carpi 0 + ( ac-parantez 6 kapa-parantez ) arti tuWd eksi ac-parantez bir kapa-parantez kapa-parantez arti ( Pd ) kapa-parantez olsun
+c degeri qW2ukM arti ac-parantez dort kapa-parantez + ac-parantez ( ( alti kapa-parantez kapa-parantez * ac-parantez 5 kapa-parantez ) olsun
+
+Sonuc
+j9fzxq * ac-parantez 3.6 kapa-parantez
